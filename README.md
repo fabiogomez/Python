@@ -1,1 +1,3 @@
 # Python
+
+Tis is the repository for all python  scripts, chanllenges, courses, etc...
